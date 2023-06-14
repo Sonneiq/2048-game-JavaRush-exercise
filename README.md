@@ -11,3 +11,9 @@
 **Клавиша 'R'** отвечает за случайный ход.
 
 **Клавиша 'A'** отвечает за ход, который принесет наибольшое количество очков.
+
+## Примеры работы:
+
+![1](https://github.com/Sonneiq/2048-game-JavaRush-exercise/assets/112100563/06090da4-84fd-441b-a860-43122680af7b)
+
+![2](https://github.com/Sonneiq/2048-game-JavaRush-exercise/assets/112100563/99fac7e4-0e03-4ab6-ab87-4b3008d091db)
